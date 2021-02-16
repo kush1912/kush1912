@@ -3,12 +3,10 @@
 ###### Glad to see you here, let's begin!
 
 #### I’m currently working at [Infosys][Organisation] as Specialist Programmer
-
 <br>
 
 ---
 ### MEAN/MERN Stack-Developer | Machine Learning | Data Science | C++ 
-- 🔭 I’m currently working at [Infosys][Organisation] as Specialist Programmer
 - 👯 I’m looking to for opportunities in AI/ML or Freelancing.
 - 🥅 2021 Goals: To be regular on Github and start Open-Source Contribution.
 - 🤔 I’m looking for help with Open-Source contribution, really appreciate if you could get me started.
