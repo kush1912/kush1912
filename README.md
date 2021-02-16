@@ -10,9 +10,8 @@
 - 🥅 2021 Goals: To be regular on Github and start Open-Source Contribution.
 - 🤔 I’m looking for help with Open-Source contribution, really appreciate if you could get me started.
 - 💬 Ask me about anything, will be more than happy to connect :)
-- ⚡ Fun fact: I write poems,articles & Quotes. 
+<!-- - ⚡ Fun fact: I write poems,articles & Quotes. -->
 
-<br>
 
 ---
 ### Let's Connect
@@ -43,6 +42,7 @@
 <!-- Github Status API -->
 <img align="left" alt="Top Language Stats" src="https://github-readme-stats.vercel.app/api?username=kush1912&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark" />
 
+<br>
 <br>
 
 <!-- Top Language API -->
