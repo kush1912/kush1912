@@ -37,7 +37,7 @@
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush1912&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark)
 
 <!-- Top Language API -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush1912&hide=RichTextFormat,htmlexclude_repo=eb-development-roadmap-2021,cplusplus-datastructures-algorithms-coding-blocks,Research-Internships-for-Undergraduates&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush1912&hide=RichTextFormat,html&exclude_repo=web-development-roadmap-2021,cplusplus-datastructures-algorithms-coding-blocks,Research-Internships-for-Undergraduates&langs_count=8&layout=compact)
 
 
 [Linkedin]: https://www.linkedin.com/in/ajay-k-19b304158/
