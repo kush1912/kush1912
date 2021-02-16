@@ -3,7 +3,6 @@
 ###### Glad to see you here, let's begin!
 
 ### I’m currently working at [Infosys][Organisation] as Specialist Programmer
-<br>
 
 ---
 ### MEAN/MERN Stack-Developer | Machine Learning | Data Science | C++ 
@@ -43,6 +42,8 @@
 
 <!-- Github Status API -->
 <img align="left" alt="Top Language Stats" src="https://github-readme-stats.vercel.app/api?username=kush1912&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark" />
+
+<br>
 
 <!-- Top Language API -->
 <img align="left" alt="Top Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush1912&exclude_repo=web-development-roadmap-2021,cplusplus-datastructures-algorithms-coding-blocks,Research-Internships-for-Undergraduates&langs_count=8&layout=compact" />
