@@ -1,8 +1,8 @@
-### Hi there, This is Ajay 👋
+### Hi there, this is Ajay 👋
 
 ###### Glad to see you here, lets begin!
-## MEAN/MERN Stack | Machine Learning | Data Science | C++ 
-- 🔭 I’m currently working [Infosys Pvt.Ltd ](https://www.infosys.com/) as Specialist Programmer
+## MEAN/MERN Stack Developer | Machine Learning | Data Science | C++ 
+- 🔭 I’m currently working [Infosys][Organisation] as Specialist Programmer
 - 👯 I’m looking to for opportunities in AI/ML or Freelancing.
 - 🥅 2021 Goals: To be regular on Github and start Open-Source Contribution.
 - 🤔 I’m looking for help with Open-Source contribution, really appreciate if you could get me started.
@@ -14,6 +14,10 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+<br />
+
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
@@ -33,10 +37,11 @@
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush1912&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark)
 
 <!-- Top Language API -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush1912&hide=Rich Text Format,htmlexclude_repo=eb-development-roadmap-2021,cplusplus-datastructures-algorithms-coding-blocks,Research-Internships-for-Undergraduates&langs_count=8&layout=compact)](https://github.com/kush1912/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush1912&hide=RichTextFormat,htmlexclude_repo=eb-development-roadmap-2021,cplusplus-datastructures-algorithms-coding-blocks,Research-Internships-for-Undergraduates&langs_count=8&layout=compact)
 
 
 [Linkedin]: https://www.linkedin.com/in/ajay-k-19b304158/
 [twitter]: https://twitter.com/Vidyajay05
 [instagram]: https://www.instagram.com/kush_1912/
+[Organisation]: https://www.infosys.com/ 
 
