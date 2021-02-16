@@ -1,6 +1,9 @@
 ### Hi there, this is Ajay 👋
 
 ###### Glad to see you here, lets begin!
+
+<br>
+
 ## MEAN/MERN Stack-Developer | Machine Learning | Data Science | C++ 
 - 🔭 I’m currently working [Infosys][Organisation] as Specialist Programmer
 - 👯 I’m looking to for opportunities in AI/ML or Freelancing.
@@ -8,6 +11,9 @@
 - 🤔 I’m looking for help with Open-Source contribution, really appreciate if you could get me started.
 - 💬 Ask me about anything, will be more than happy to connect :)
 - ⚡ Fun fact: I write poems,articles & Quotes. 
+
+<br>
+
 ### Let's Connect
 
 [<img align="left" alt="Likedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][Linkedin]
@@ -15,10 +21,11 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 ---
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -36,7 +43,7 @@
 <br />
 ---
 <!-- Top Language API -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush1912&hide=RichTextFormat&exclude_repo=web-development-roadmap-2021,cplusplus-datastructures-algorithms-coding-blocks,Research-Internships-for-Undergraduates&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush1912&hide=rtf&exclude_repo=web-development-roadmap-2021,cplusplus-datastructures-algorithms-coding-blocks,Research-Internships-for-Undergraduates&langs_count=8&layout=compact)
 
 
 [Linkedin]: https://www.linkedin.com/in/ajay-k-19b304158/
