@@ -1,11 +1,13 @@
 ### Hi there, this is Ajay 👋
 
-###### Glad to see you here, lets begin!
+###### Glad to see you here, let's begin!
+
+#### I’m currently working at [Infosys][Organisation] as Specialist Programmer
 
 <br>
-
-## MEAN/MERN Stack-Developer | Machine Learning | Data Science | C++ 
-- 🔭 I’m currently working [Infosys][Organisation] as Specialist Programmer
+---
+### MEAN/MERN Stack-Developer | Machine Learning | Data Science | C++ 
+- 🔭 I’m currently working at [Infosys][Organisation] as Specialist Programmer
 - 👯 I’m looking to for opportunities in AI/ML or Freelancing.
 - 🥅 2021 Goals: To be regular on Github and start Open-Source Contribution.
 - 🤔 I’m looking for help with Open-Source contribution, really appreciate if you could get me started.
@@ -13,7 +15,7 @@
 - ⚡ Fun fact: I write poems,articles & Quotes. 
 
 <br>
-
+---
 ### Let's Connect
 
 [<img align="left" alt="Likedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][Linkedin]
@@ -35,15 +37,17 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
+
 ---
 
 <!-- Github Status API -->
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush1912&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark)
 
 <br />
+
 ---
 <!-- Top Language API -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush1912&hide=rtf&exclude_repo=web-development-roadmap-2021,cplusplus-datastructures-algorithms-coding-blocks,Research-Internships-for-Undergraduates&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush1912&exclude_repo=web-development-roadmap-2021,cplusplus-datastructures-algorithms-coding-blocks,Research-Internships-for-Undergraduates&langs_count=8&layout=compact)
 
 
 [Linkedin]: https://www.linkedin.com/in/ajay-k-19b304158/
