@@ -4,14 +4,11 @@
 
 ### I’m currently working at [Infosys][Organisation] as Specialist Programmer
 
----
-### MEAN/MERN Stack-Developer | Machine Learning | Data Science | C++ 
-- 👯 I’m looking to for opportunities in AI/ML or Freelancing.
-- 🥅 2021 Goals: To be regular on Github and start Open-Source Contribution.
-- 🤔 I’m looking for help with Open-Source contribution, really appreciate if you could get me started.
-- 💬 Ask me about anything, will be more than happy to connect :)
-<!-- - ⚡ Fun fact: I write poems,articles & Quotes. -->
+I would define myself as a person having intense passion for problem solving and development rather than competitive coding. I have spared my fair share of time to be an impressive candidate in both the domains. I can work independently and have acquired a perfect blend of technical & soft skills with a desire and capability of showcasing leadership qualities. I believe that my ability to break down problems into first principles, strong moral values and tendency to stay with questions longer always helps me in finding the answers to the tougher questions.
 
+I am always open to quality opportunities which provides me learning opportunities, be it in AI/ML, Data Sciene or Full Stack Development.
+
+Current Status: Learning Spring Boot...
 
 ---
 ### Let's Connect
