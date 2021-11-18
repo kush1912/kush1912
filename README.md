@@ -8,7 +8,7 @@ I would define myself as a person having intense passion for problem solving and
 
 I am always open to quality opportunities which provides me learning opportunities, be it in AI/ML, Data Sciene or Full Stack Development.
 
-Current Status: Learning Spring Boot...
+####Current Status: Learning Spring Boot...
 
 ---
 ### Let's Connect
