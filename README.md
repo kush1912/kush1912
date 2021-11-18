@@ -8,7 +8,7 @@ I would define myself as a person having intense passion for problem solving and
 
 I am always open to quality opportunities which provides me learning opportunities, be it in AI/ML, Data Sciene or Full Stack Development.
 
-- 💬 Ask me about anything, will be more than happy to connect :)
+💬 Ask me about anything, will be more than happy to connect :)
 <!-- - ⚡ Fun fact: I write poems,articles & Quotes.  -->
 
 #### Current Status: Learning Spring Boot...
