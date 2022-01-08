@@ -11,7 +11,7 @@ I am always open to quality opportunities which provides me learning opportuniti
 💬 Ask me about anything, will be more than happy to connect :)
 <!-- - ⚡ Fun fact: I write poems,articles & Quotes.  -->
 
-#### Current Status: Learning Spring Boot...
+#### Current Status: Learning ReactJs...
 
 ---
 ### Let's Connect
