@@ -2,7 +2,7 @@
 
 ###### Glad to see you here, let's begin!
 
-### I’m currently working at [SunKing][Organisation] as Software Engineer Backend
+### I’m currently working at [Microsoft][Organisation] as Software Engineer 2
 
 I would define myself as a person having intense passion for problem solving and development rather than competitive coding. I have spared my fair share of time to be an impressive candidate in both the domains. I can work independently and have acquired a perfect blend of technical & soft skills with a desire and capability of showcasing leadership qualities. I believe that my ability to break down problems into first principles, strong moral values and tendency to stay with questions longer always helps me in finding the answers to the tougher questions.
 
@@ -47,5 +47,5 @@ I am always open to quality opportunities which provides me learning opportuniti
 [Linkedin]: https://www.linkedin.com/in/ajay-k-19b304158/
 [twitter]: https://twitter.com/Vidyajay05
 [instagram]: https://www.instagram.com/kush_1912/
-[Organisation]: https://sunking.com/ 
+[Organisation]: https://azure.microsoft.com/en-us/products/postgresql 
 
